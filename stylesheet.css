@@ -1,1 +1,66 @@
+.header {
+  margin:10px;
+  background-image:url(https://www.britcham.org.sg/sites/default/files/styles/slideshow/public/2020-08/singapore2-min.jpg?itok=JpCKmr4X);
+  background-size:cover;
+  height:200px;
+}
 
+h1 {
+  color:aqua;
+  text-align:center;
+}
+
+h2 {
+  color:black;
+  text-align:center;
+}
+
+.introducion {
+  margin:10px;
+}
+
+.intro-title {
+  font-size:20px;
+}
+
+.intro-body {
+  font-size:15px;
+}
+
+.image {
+  width:400px;
+  margin:10px;
+}
+
+.contact-details {
+  margin:10px;
+}
+
+.contact-title {
+  font-size:20px;
+}
+
+.btn {
+  display:flex;
+  display:inline-block;
+  border-radius:10px;
+  width:100px;
+  height:50px;
+  padding:10px;
+}
+
+.A {
+  color:black;
+  background-color:lightgreen;
+  font-size:15px;
+}
+
+.A:hover {
+  background-color:green;
+}
+
+.B {
+  color:black;
+  font-size:15px
+  background-color:red;
+}
