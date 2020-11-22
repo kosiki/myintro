@@ -2,7 +2,7 @@
   margin:10px;
   background-image:url(https://www.britcham.org.sg/sites/default/files/styles/slideshow/public/2020-08/singapore2-min.jpg?itok=JpCKmr4X);
   background-size:cover;
-  height:200px;
+  height:400px;
 }
 
 h1 {
@@ -64,4 +64,8 @@ h2 {
   color:black;
   font-size:15px
   background-color:red;
+}
+
+.B:hover {
+  background-color:orange;
 }
