@@ -4,7 +4,6 @@ body {
 }
 
 .header {
-  margin:5px;
   background-image:url("https://raw.githubusercontent.com/kosiki/myintro/master/singapore-marinabaysands.jpg");
   background-size:contain;
   height:100px;
