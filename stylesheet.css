@@ -1,5 +1,9 @@
+.body {
+  margin:5px;
+}
+
 .header {
-  margin:10px;
+  margin:5px;
   background-image:url("https://raw.githubusercontent.com/kosiki/myintro/master/singapore-marinabaysands.jpg");
   background-size:contain;
   height:100px;
@@ -12,7 +16,7 @@ h1 {
 }
 
 .introducion {
-  margin:10px;
+  margin:5px;
 }
 
 .intro-title {
@@ -29,7 +33,7 @@ h1 {
 }
 
 .contact-details {
-  margin:10px;
+  margin:5px;
 }
 
 .contact-title {
