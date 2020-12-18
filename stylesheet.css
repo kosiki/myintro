@@ -72,6 +72,10 @@ h1 {
   background-color:#FF00FF;
 }
 
+.wall-paper {
+  margin:5px;
+}
+
 .wall-paper-intro {
   font-size:20px;
   border-bottom:6px solid black;
