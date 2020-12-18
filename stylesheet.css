@@ -71,3 +71,17 @@ h1 {
 .B:hover {
   background-color:#FF00FF;
 }
+
+.wall-paper-intro {
+  font-size:20px;
+  border-bottom:6px solid black;
+}
+
+.wall-paper-details {
+  font-size:15px;
+}
+
+h3 {
+  padding-tpp:10px;
+}
+  
