@@ -58,16 +58,16 @@ h1 {
 }
 
 .A:hover {
-  background-color:green;
+  background-color:lime;
 }
 
 .B {
   color:black;
-  background-color:red;
+  background-color:#FF99FF;
   font-size:15px
   
 }
 
 .B:hover {
-  background-color:orange;
+  background-color:#FF00FF;
 }
