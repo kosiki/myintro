@@ -90,14 +90,22 @@ h1 {
   padding:5px;
 }
 
+.promarinadetails {
+  margin-right:10px;
+}
+
+.macmarinadetails {
+  margin-right:10px;
+}
+
 .promarina {
   display:cover;
-  height:30px;
-  width:15px;
+  height:70px;
+  width:35px;
 }
 
 .macmarina {
   display:cover;
-  height:30px;
-  width:15px;
+  height:70px;
+  width:35px;
 }
