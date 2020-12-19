@@ -63,12 +63,22 @@ h1 {
 
 .B {
   color:black;
-  background-color:#FF99FF;
+  background-color:#AAFFFF;
   font-size:15px
   
 }
 
 .B:hover {
+  background-color:#00FFFF;
+}
+
+.C {
+  color:black;
+  background-color:#FF99FF;
+  font-size:15px;
+}
+
+.C:hover {
   background-color:#FF00FF;
 }
 
